@@ -1,4 +1,4 @@
 #!/bin/bash
-$ls -l | tr -s ' ' | cut -d' ' -f1-5,9-
+$ls -1 | tr -s ' ' | cut -d' ' -f1-5,9-
 
 
