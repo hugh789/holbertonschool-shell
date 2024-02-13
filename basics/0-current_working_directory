@@ -1,2 +1,2 @@
 #!/bin/bash
-(pwd; ls-l; echo "Absolute path of the current directory")
+(pwd; echo "Absolute path of the current directory")
