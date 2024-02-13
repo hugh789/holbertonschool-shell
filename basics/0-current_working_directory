@@ -1,2 +1,2 @@
-#!/bin/bash 
-current_directory=$(pwd) echo "Absolute path of the current directory: $current_directory"
+#!/bin/bash
+echo "Absolute path of the current directory: $(pwd)"
